@@ -1,0 +1,13 @@
+C:\Users\Jeo\source\repos\smallclass\smallclass\bin\Debug\netcoreapp3.1\smallclass.exe
+C:\Users\Jeo\source\repos\smallclass\smallclass\bin\Debug\netcoreapp3.1\smallclass.deps.json
+C:\Users\Jeo\source\repos\smallclass\smallclass\bin\Debug\netcoreapp3.1\smallclass.runtimeconfig.json
+C:\Users\Jeo\source\repos\smallclass\smallclass\bin\Debug\netcoreapp3.1\smallclass.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\smallclass\smallclass\bin\Debug\netcoreapp3.1\smallclass.dll
+C:\Users\Jeo\source\repos\smallclass\smallclass\bin\Debug\netcoreapp3.1\smallclass.pdb
+C:\Users\Jeo\source\repos\smallclass\smallclass\obj\Debug\netcoreapp3.1\smallclass.csprojAssemblyReference.cache
+C:\Users\Jeo\source\repos\smallclass\smallclass\obj\Debug\netcoreapp3.1\smallclass.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\smallclass\smallclass\obj\Debug\netcoreapp3.1\smallclass.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\smallclass\smallclass\obj\Debug\netcoreapp3.1\smallclass.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\smallclass\smallclass\obj\Debug\netcoreapp3.1\smallclass.dll
+C:\Users\Jeo\source\repos\smallclass\smallclass\obj\Debug\netcoreapp3.1\smallclass.pdb
+C:\Users\Jeo\source\repos\smallclass\smallclass\obj\Debug\netcoreapp3.1\smallclass.genruntimeconfig.cache
